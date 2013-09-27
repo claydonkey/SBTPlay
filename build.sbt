@@ -2,7 +2,7 @@ import com.typesafe.startscript.StartScriptPlugin
 
 seq(StartScriptPlugin.startScriptForClassesSettings: _*)
 
-name := "hello"
+name := "SBTPlay"
 
 version := "1.0"
 
