@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bf85d05-cd0f-405c-a2bb-337c7702d405" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_twitter_finagle_core_1_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_twitter_finagle_core_1_9_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_twitter_finagle_http_1_9_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_twitter_finagle_http_1_9_0.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_twitter_util_collection_1_11_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_twitter_util_collection_1_11_4.xml" />
@@ -44,7 +43,7 @@
     <file path="$PROJECT_DIR$/target/resolution-cache/hello/hello_2.9.2/1.0/resolved.xml.xml" changelist="8bf85d05-cd0f-405c-a2bb-337c7702d405" time="1380291678138" ignored="false" />
     <file path="$PROJECT_DIR$/target/resolution-cache/reports/hello-hello_2.9.2/provided-resolved.xml" changelist="8bf85d05-cd0f-405c-a2bb-337c7702d405" time="1380291678138" ignored="false" />
     <file path="$PROJECT_DIR$/target/resolution-cache/reports/hello-hello_2.9.2/test-resolved.xml" changelist="8bf85d05-cd0f-405c-a2bb-337c7702d405" time="1380291678138" ignored="false" />
-    <file path="/Dummy.txt" changelist="8bf85d05-cd0f-405c-a2bb-337c7702d405" time="1380296190852" ignored="false" />
+    <file path="/Dummy.txt" changelist="8bf85d05-cd0f-405c-a2bb-337c7702d405" time="1380296417684" ignored="false" />
     <file path="/README" changelist="8bf85d05-cd0f-405c-a2bb-337c7702d405" time="1380296394763" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -640,7 +639,11 @@
       <created>1380296197321</created>
       <updated>1380296197321</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test1">
+      <created>1380296420164</created>
+      <updated>1380296420164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
